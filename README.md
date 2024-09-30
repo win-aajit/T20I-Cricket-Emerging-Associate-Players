@@ -5,7 +5,7 @@ I gathered my data from ESPN Cricinfo's StatGuru Database, filtering by Associat
 
 After transfering the data into a csv file through excel, I imported the data into MySQL.
 
-Using the equations provided by https://www.krick3r.com/2016/02/t20-performance-impact-method.html, I calculated the players with the highest impact perfomance scores
+Using the equations provided by https://www.krick3r.com/2016/02/t20-performance-impact-method.html, I calculated the players with the highest impact perfomance scores.
 
 ![image](https://github.com/user-attachments/assets/5f3edc65-ed0a-4147-8c37-a3724775cd11)
 
