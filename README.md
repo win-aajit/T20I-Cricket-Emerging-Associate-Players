@@ -13,11 +13,11 @@ Using the equations provided by https://www.krick3r.com/2016/02/t20-performance-
 ![image](https://github.com/user-attachments/assets/b90761bd-f7d2-4734-a521-5dea2cc7c077)
 
 
-# EMERGING BATTERS
+## EMERGING BATTERS
 
 ![image](https://github.com/user-attachments/assets/9f593b2d-ba3d-4c92-9766-ccc50d4b854d)
 
-# EMERGING BOWLERS
+## EMERGING BOWLERS
 
 ![image](https://github.com/user-attachments/assets/5ef974af-8e7a-4f70-bf84-cc1c79085ea5)
 
