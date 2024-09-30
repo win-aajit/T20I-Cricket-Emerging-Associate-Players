@@ -17,6 +17,6 @@ Using the equations provided by https://www.krick3r.com/2016/02/t20-performance-
 
 ![image](https://github.com/user-attachments/assets/9f593b2d-ba3d-4c92-9766-ccc50d4b854d)
 
-## Top 25 Emergin Bowlers (Min. 20 Innings)
+## Top 25 Emerging Bowlers (Min. 20 Innings)
 ![image](https://github.com/user-attachments/assets/5ef974af-8e7a-4f70-bf84-cc1c79085ea5)
 
