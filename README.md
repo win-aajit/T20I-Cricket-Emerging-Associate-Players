@@ -7,25 +7,17 @@ After transfering the data into a csv file through excel, I imported the data in
 
 Using the equations provided by https://www.krick3r.com/2016/02/t20-performance-impact-method.html, I ran an equation to find the players with the highest impact perfomance scores
 
-Batting Performance Impact:
-Batting Strike Rate Benchmark : 130 runs per 100 balls
-Batting Average Benchmark : 30 runs per dismissal
-Performance Benchmark : 130 (SR) + 30 (Average) = 160 
-Quality = (Strike Rate + Average) / Performance Benchmark 
-Frequency = Balls Faced / Match
-Player Impact = Quality x Frequency
+![image](https://github.com/user-attachments/assets/5f3edc65-ed0a-4147-8c37-a3724775cd11)
 
-Bowling Performance Impact:
-Economy Benchmark : 8 runs an over
-Strike Rate Benchmark : 12 (2 wickets in 4 overs)
-Performance Benchmark : 8 (Eco) x 12 (SR) = 96 [rounded off to 100 for the sake of simplicity]
-Quality = Performance Benchmark / (Economy x Strike Rate)
-Frequency = Balls Bowled / Match
-Player Impact = Quality x Frequency 
+
+![image](https://github.com/user-attachments/assets/b90761bd-f7d2-4734-a521-5dea2cc7c077)
+
 
 EMERGING BATTERS
+
 ![image](https://github.com/user-attachments/assets/9f593b2d-ba3d-4c92-9766-ccc50d4b854d)
 
 EMERGING BOWLERS
+
 ![image](https://github.com/user-attachments/assets/5ef974af-8e7a-4f70-bf84-cc1c79085ea5)
 
